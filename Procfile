@@ -1,0 +1,1 @@
+web: mySwiftServer --port=$PORT
