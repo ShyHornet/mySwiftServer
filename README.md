@@ -1,7 +1,7 @@
 # Hello World
 
 This is a simple Swift Hello World website using the
-[Curassow](https://github.com/kylef/Curassow) webserver which uses a pre-fork worker model.
+[Curassow](https://github.com/kylef/Curassow) webserver which uses a pre-fork w model.
 
 ## Usage
 

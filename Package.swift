@@ -5,4 +5,5 @@ let package = Package(
   dependencies: [
         .Package(url: "https://github.com/loganwright/vapor.git", majorVersion: 0)
     ]
+    
 )
