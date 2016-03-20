@@ -18,7 +18,7 @@ This example can be deployed to Heroku using the
 
 Click the button below to automatically set up this example to run on your own Heroku account.
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/kylef/Curassow-example-helloworld)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/ShyHornet/mySwiftServer)
 
 ### Options
 
